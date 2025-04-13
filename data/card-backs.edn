@@ -1,0 +1,20 @@
+{;; expected schema:
+ ;;  :description - a description of the prize (so the TO can identify them later)
+ ;;  :side        - which side this is for. :corp, :runner, or :both
+ ;;                   ensure the card is in the correct folder after setting this.
+ ;;  :prize       - true | nil - this is a prize for a tournament, and needs to be assigned by TO?
+ ;;  :name        - the name of this card back. This will be visible to players and TO's, and should
+ ;;                   be recognizable even if other prizes have the same base card
+ ;;                   (ie "Sundew (nbk alt art)" vs "Sundew" (???)
+ ;;  :file        - the base filename. Do not include the '.png' extension.
+
+ ;; publicly available card backs
+
+ ;; prizes for tournaments - these are assigned to individual players through the admin or TO panel
+ :nbk-test-prize {:description "You won something! Well done!"
+                  :side :corp
+                  :prize true
+                  :name "Sundew (test prize)"
+                  :file "test-prize-nbk"}
+
+ }
