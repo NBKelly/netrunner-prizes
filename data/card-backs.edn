@@ -39,4 +39,15 @@
                      :name "Self-modifying Code (ElessarEllie)"
                      :file "elessar-ellie-smc"}
 
+ ;; prizes on behalf of Abraham (ManintheMoon)
+ :mitm-bladderwort-top-8 {:description "Bladderwort (top 8) - Online Showdown"
+                          :side :corp
+                          :prize true
+                          :name "Bladderwort (top 8), Martin J Heade"
+                          :file "mitm-bladderwort-top-8"}
+ :mitm-bladderwort-no-text {:description "Bladderwort - Online Showdown"
+                            :side :corp
+                            :prize true
+                            :name "Bladderwort, Martin J Heade"
+                            :file "mitm-bladderwort"}
  }
