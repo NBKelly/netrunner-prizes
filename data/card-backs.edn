@@ -17,4 +17,26 @@
                   :name "Sundew (test prize)"
                   :file "test-prize-nbk"}
 
+ ;; art with permission from Elessar Ellie: https://mpp2024.my.canva.site/netrunner-cards
+ :elessar-ellie-finality {:description "Finality (as a looming ghoul)"
+                          :side :runner
+                          :prize true
+                          :name "Finality (ElessarEllie)"
+                          :file "elessar-ellie-finality"}
+ :elessar-ellie-hantu {:description "Hantu (as a ghostly woman)"
+                       :side :runner
+                       :prize true
+                       :name "Hantu (ElessarEllie)"
+                       :file "elessar-ellie-hantu"}
+ :elessar-ellie-lilypad {:description "Lilypad (as a cute watercolor)"
+                         :side :runner
+                         :prize true
+                         :name "Lilypad (ElessarEllie)"
+                         :file "elessar-ellie-lilypad"}
+ :elessar-ellie-smc {:description "Self-modifying Code (as a pretty watercolor)"
+                     :side :runner
+                     :prize true
+                     :name "Self-modifying Code (ElessarEllie)"
+                     :file "elessar-ellie-smc"}
+
  }
