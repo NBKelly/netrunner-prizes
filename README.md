@@ -7,4 +7,7 @@ All the art included in this repo, unless otherwise specified, is the specific p
 Those artists are:
 * ElissarEllie - https://mpp2024.my.canva.site/netrunner-cards
   * Hantu, Finality, SMC, lilypad
+* Brindlemold - https://www.makeplayingcards.com/sell/brindelmold-cards
+  * The Price
 * Art by Martin J Heade is in the public domain
+* Art by John La Farge is in the public domain
