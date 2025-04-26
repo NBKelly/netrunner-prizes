@@ -42,7 +42,7 @@
  ;; prizes on behalf of OF15-15
  :of15-15-the-price {:description "The Price (As a weary, but victorius, centurion)"
                      :prize true
-                     :name "The Price (Bringlemold)"
+                     :name "The Price (Brindlemold)"
                      :file "of15-15-the-price"
                      :side :runner}
 
