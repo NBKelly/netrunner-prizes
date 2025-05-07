@@ -11,3 +11,5 @@ Those artists are:
   * The Price
 * Art by Martin J Heade is in the public domain
 * Art by John La Farge is in the public domain
+
+* Byte! - courtesy of NSG, art by Cat Shen
