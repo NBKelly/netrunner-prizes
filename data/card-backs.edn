@@ -17,6 +17,13 @@
                   :name "Sundew (test prize)"
                   :file "test-prize-nbk"}
 
+ ;; Official nsg prizing
+ :nsg-byte {:description "Byte! (NSG) - illustrated by Cat Shen"
+            :side :corp
+            :prize true
+            :name "Byte! (NSG, Cat Shen)"
+            :file "nsg-byte"}
+
  ;; art with permission from Elessar Ellie: https://mpp2024.my.canva.site/netrunner-cards
  :elessar-ellie-finality {:description "Finality (as a looming ghoul)"
                           :side :runner
