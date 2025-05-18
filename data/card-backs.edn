@@ -13,6 +13,7 @@
  ;; prizes for tournaments - these are assigned to individual players through the admin or TO panel
  :nbk-test-prize {:description "You won something! Well done!"
                   :side :corp
+                  :group "Testing"
                   :prize true
                   :name "Sundew (test prize)"
                   :file "test-prize-nbk"}
@@ -20,6 +21,7 @@
  ;; Official nsg prizing
  :nsg-byte {:description "Byte! (NSG) - illustrated by Cat Shen"
             :side :corp
+            :group "NSG OP 2025"
             :prize true
             :name "Byte! (NSG, Cat Shen)"
             :file "nsg-byte"}
@@ -27,21 +29,25 @@
  ;; art with permission from Elessar Ellie: https://mpp2024.my.canva.site/netrunner-cards
  :elessar-ellie-finality {:description "Finality (as a looming ghoul)"
                           :side :runner
+                          :group "ElissarEllie"
                           :prize true
                           :name "Finality (ElessarEllie)"
                           :file "elessar-ellie-finality"}
  :elessar-ellie-hantu {:description "Hantu (as a ghostly woman)"
                        :side :runner
+                       :group "ElissarEllie"
                        :prize true
                        :name "Hantu (ElessarEllie)"
                        :file "elessar-ellie-hantu"}
  :elessar-ellie-lilypad {:description "Lilypad (as a cute watercolor)"
                          :side :runner
+                         :group "ElissarEllie"
                          :prize true
                          :name "Lilypad (ElessarEllie)"
                          :file "elessar-ellie-lilypad"}
  :elessar-ellie-smc {:description "Self-modifying Code (as a pretty watercolor)"
                      :side :runner
+                     :group "ElissarEllie"
                      :prize true
                      :name "Self-modifying Code (ElessarEllie)"
                      :file "elessar-ellie-smc"}
@@ -50,6 +56,7 @@
  :of15-15-the-price {:description "The Price (As a weary, but victorius, centurion)"
                      :prize true
                      :name "The Price (Brindlemold)"
+                     :group "Brindlemold"
                      :file "of15-15-the-price"
                      :side :runner}
 
@@ -57,16 +64,24 @@
  :mitm-bladderwort-top-8 {:description "Bladderwort (top 8) - Online Showdown"
                           :side :corp
                           :prize true
+                          :group "Online Showdown 2025"
                           :name "Bladderwort (top 8), Martin J Heade"
                           :file "mitm-bladderwort-top-8"}
  :mitm-bladderwort-no-text {:description "Bladderwort - Online Showdown"
                             :side :corp
                             :prize true
+                            :group "Online Showdown 2025"
                             :name "Bladderwort, Martin J Heade"
                             :file "mitm-bladderwort"}
  :mitm-smc-top-8 {:description "SMC (top 8) - Online Showdown"
                   :side :runner
                   :prize true
+                  :group "Online Showdown 2025"
                   :name "SMC (top 8), John La Farge"
                   :file "mitm-smc-top-8"}
- }
+ :mitm-smc-no-text {:description "SMC - Online Showdown"
+                    :side :runner
+                    :prize true
+                    :group "Online Showdown 2025"
+                    :name "SMC, John La Farge"
+                    :file "mitm-smc"}}
