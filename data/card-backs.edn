@@ -60,6 +60,14 @@
                      :file "of15-15-the-price"
                      :side :runner}
 
+ ;; prizes on behalf of stwyde
+ :stwyde-nebula {:description "Nebula (all-seeing-eye)"
+                 :side :corp
+                 :group "Stwyde"
+                 :name "Nebula, Stwyde"
+                 :file "stwyde-nebula"
+                 :prize true}
+
  ;; prizes on behalf of Abraham (ManintheMoon)
  :mitm-bladderwort-top-8 {:description "Bladderwort (top 8) - Online Showdown"
                           :side :corp
