@@ -64,7 +64,7 @@
  :stwyde-nebula {:description "Nebula (all-seeing-eye)"
                  :side :corp
                  :group "Stwyde"
-                 :name "Nebula, Stwyde"
+                 :name "Nebula, PiCat"
                  :file "stwyde-nebula"
                  :prize true}
 
